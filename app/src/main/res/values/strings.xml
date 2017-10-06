@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoFo</string>
+
+    <string name="title_hint">标题</string>
+    <string name="describe_hint">描述</string>
+    <string name="photo_hint">手机</string>
+</resources>
